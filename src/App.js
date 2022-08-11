@@ -38,9 +38,9 @@ function App() {
        
       }
       
-      let result = JSON.stringify(values);
       window.scrollTo(0, 0);
-      alert ("JSON data result:" + result);
+      //let result = JSON.stringify(values);
+      //alert ("JSON data result:" + result);
      
       // Resets data and images.
       //resetForm();
